@@ -38,3 +38,10 @@ Plan "Senior": Lanzamiento de un plan de bajo costo con alta prioridad en voz pa
 Up-selling Automatizado: Campañas dirigidas a usuarios que superan el 90% de sus límites de datos.
 
 Optimización de Registro: Implementar validaciones obligatorias en el sistema de captura para eliminar datos inconsistentes (como edades negativas).
+
+🚀 Cómo ejecutar el proyecto:
+git clone https://github.com/tu-usuario/connectatel-analysis.git
+
+1.- Instalar las dependencias necesarias:
+2.- pip install pandas matplotlib seaborn
+3.- Abrir el archivo S7_Version-Estudiante-Project-ConnectaTel.ipynb en Jupyter Notebook o Google Colab.
